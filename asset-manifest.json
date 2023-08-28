@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a29f8d55.css",
-    "main.js": "/static/js/main.46929c22.js",
+    "main.css": "/static/css/main.4774357f.css",
+    "main.js": "/static/js/main.9f92bb3a.js",
     "static/media/gandr-demo.mp4": "/static/media/gandr-demo.5facc3cacdda76998d49.mp4",
     "static/media/nfph-demo.mp4": "/static/media/nfph-demo.fa01b7b60c09db48adbf.mp4",
     "static/media/always-balanced-demo.mp4": "/static/media/always-balanced-demo.515f538ae8927f037f52.mp4",
@@ -22,13 +22,12 @@
     "static/media/skills.png": "/static/media/skills.7b539b172c6a74438cec.png",
     "static/media/send.png": "/static/media/send.765a808a6897fcc5d8d1.png",
     "static/media/education.png": "/static/media/education.0427074c0e3dd8742cd2.png",
-    "static/media/github-icon.svg": "/static/media/github-icon.b37d01ffe01bfe347f66050308e8570e.svg",
     "index.html": "/index.html",
-    "main.a29f8d55.css.map": "/static/css/main.a29f8d55.css.map",
-    "main.46929c22.js.map": "/static/js/main.46929c22.js.map"
+    "main.4774357f.css.map": "/static/css/main.4774357f.css.map",
+    "main.9f92bb3a.js.map": "/static/js/main.9f92bb3a.js.map"
   },
   "entrypoints": [
-    "static/css/main.a29f8d55.css",
-    "static/js/main.46929c22.js"
+    "static/css/main.4774357f.css",
+    "static/js/main.9f92bb3a.js"
   ]
 }
