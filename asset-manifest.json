@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a29f8d55.css",
+    "main.js": "/static/js/main.5730dc89.js",
+    "static/media/gandr-demo.mp4": "/static/media/gandr-demo.5facc3cacdda76998d49.mp4",
+    "static/media/nfph-demo.mp4": "/static/media/nfph-demo.fa01b7b60c09db48adbf.mp4",
+    "static/media/always-balanced-demo.mp4": "/static/media/always-balanced-demo.515f538ae8927f037f52.mp4",
+    "static/media/fruit-quest-demo.mp4": "/static/media/fruit-quest-demo.f0ecb9575cb1844d586b.mp4",
+    "static/media/nfph-screenshot.png": "/static/media/nfph-screenshot.193ca1d3474f946b700f.png",
+    "static/media/gandr-screenshot.png": "/static/media/gandr-screenshot.b844d120aecc7d84867f.png",
+    "static/media/iona.png": "/static/media/iona.ff09b4f5aaabc5c6de9d.png",
+    "static/media/ghent.jpeg": "/static/media/ghent.345a6440d36b6d40e41d.jpeg",
+    "static/media/new-york.jpeg": "/static/media/new-york.73ab1f1409a01bc3f6ba.jpeg",
+    "static/media/tahoe.jpeg": "/static/media/tahoe.0a277064a460d1867f3c.jpeg",
+    "static/media/bodega-bay.jpeg": "/static/media/bodega-bay.3756a1851aae0cbb4de3.jpeg",
+    "static/media/pavlova.jpeg": "/static/media/pavlova.13046268f9472f4cd023.jpeg",
+    "static/media/golden-gate-bridge.jpeg": "/static/media/golden-gate-bridge.5506a83fc5fb36b68fa2.jpeg",
+    "static/media/france.jpeg": "/static/media/france.67fb9c2548c8dae39b77.jpeg",
+    "static/media/fruit-quest-screenshot.png": "/static/media/fruit-quest-screenshot.2ff3ee8450892decb69d.png",
+    "static/media/always-balanced-screenshot.png": "/static/media/always-balanced-screenshot.34a3cb24e38c80d1ec52.png",
+    "static/media/volunteer-experience.png": "/static/media/volunteer-experience.40e03425dabfcebecef6.png",
+    "static/media/skills.png": "/static/media/skills.7b539b172c6a74438cec.png",
+    "static/media/send.png": "/static/media/send.765a808a6897fcc5d8d1.png",
+    "static/media/medium-icon.png": "/static/media/medium-icon.9c00f291c7d9c7cbcf54.png",
+    "static/media/education.png": "/static/media/education.0427074c0e3dd8742cd2.png",
+    "static/media/github-icon.svg": "/static/media/github-icon.b37d01ffe01bfe347f66050308e8570e.svg",
+    "static/media/dev.to-icon.svg": "/static/media/dev.to-icon.2bb4313e84e1ff38a0aed854dc9781cb.svg",
+    "static/media/linkedin-icon.svg": "/static/media/linkedin-icon.69e18da51f374fff87a57c0762b92fc6.svg",
+    "index.html": "/index.html",
+    "main.a29f8d55.css.map": "/static/css/main.a29f8d55.css.map",
+    "main.5730dc89.js.map": "/static/js/main.5730dc89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a29f8d55.css",
+    "static/js/main.5730dc89.js"
+  ]
+}
