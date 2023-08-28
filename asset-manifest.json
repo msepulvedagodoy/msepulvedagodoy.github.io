@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.4774357f.css",
+    "main.css": "/static/css/main.91b3aa32.css",
     "main.js": "/static/js/main.9f92bb3a.js",
     "static/media/gandr-demo.mp4": "/static/media/gandr-demo.5facc3cacdda76998d49.mp4",
     "static/media/nfph-demo.mp4": "/static/media/nfph-demo.fa01b7b60c09db48adbf.mp4",
@@ -23,11 +23,11 @@
     "static/media/send.png": "/static/media/send.765a808a6897fcc5d8d1.png",
     "static/media/education.png": "/static/media/education.0427074c0e3dd8742cd2.png",
     "index.html": "/index.html",
-    "main.4774357f.css.map": "/static/css/main.4774357f.css.map",
+    "main.91b3aa32.css.map": "/static/css/main.91b3aa32.css.map",
     "main.9f92bb3a.js.map": "/static/js/main.9f92bb3a.js.map"
   },
   "entrypoints": [
-    "static/css/main.4774357f.css",
+    "static/css/main.91b3aa32.css",
     "static/js/main.9f92bb3a.js"
   ]
 }
