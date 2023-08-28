@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a29f8d55.css",
-    "main.js": "/static/js/main.2cb0b906.js",
+    "main.js": "/static/js/main.46929c22.js",
     "static/media/gandr-demo.mp4": "/static/media/gandr-demo.5facc3cacdda76998d49.mp4",
     "static/media/nfph-demo.mp4": "/static/media/nfph-demo.fa01b7b60c09db48adbf.mp4",
     "static/media/always-balanced-demo.mp4": "/static/media/always-balanced-demo.515f538ae8927f037f52.mp4",
@@ -21,17 +21,14 @@
     "static/media/volunteer-experience.png": "/static/media/volunteer-experience.40e03425dabfcebecef6.png",
     "static/media/skills.png": "/static/media/skills.7b539b172c6a74438cec.png",
     "static/media/send.png": "/static/media/send.765a808a6897fcc5d8d1.png",
-    "static/media/medium-icon.png": "/static/media/medium-icon.9c00f291c7d9c7cbcf54.png",
     "static/media/education.png": "/static/media/education.0427074c0e3dd8742cd2.png",
     "static/media/github-icon.svg": "/static/media/github-icon.b37d01ffe01bfe347f66050308e8570e.svg",
-    "static/media/dev.to-icon.svg": "/static/media/dev.to-icon.2bb4313e84e1ff38a0aed854dc9781cb.svg",
-    "static/media/linkedin-icon.svg": "/static/media/linkedin-icon.69e18da51f374fff87a57c0762b92fc6.svg",
     "index.html": "/index.html",
     "main.a29f8d55.css.map": "/static/css/main.a29f8d55.css.map",
-    "main.2cb0b906.js.map": "/static/js/main.2cb0b906.js.map"
+    "main.46929c22.js.map": "/static/js/main.46929c22.js.map"
   },
   "entrypoints": [
     "static/css/main.a29f8d55.css",
-    "static/js/main.2cb0b906.js"
+    "static/js/main.46929c22.js"
   ]
 }
