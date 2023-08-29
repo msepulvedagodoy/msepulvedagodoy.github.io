@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.91b3aa32.css",
-    "main.js": "/static/js/main.403b1b56.js",
+    "main.js": "/static/js/main.38e4e531.js",
     "static/media/gandr-demo.mp4": "/static/media/gandr-demo.5facc3cacdda76998d49.mp4",
     "static/media/nfph-demo.mp4": "/static/media/nfph-demo.fa01b7b60c09db48adbf.mp4",
     "static/media/always-balanced-demo.mp4": "/static/media/always-balanced-demo.515f538ae8927f037f52.mp4",
@@ -22,12 +22,13 @@
     "static/media/skills.png": "/static/media/skills.7b539b172c6a74438cec.png",
     "static/media/send.png": "/static/media/send.765a808a6897fcc5d8d1.png",
     "static/media/education.png": "/static/media/education.0427074c0e3dd8742cd2.png",
+    "static/media/MSG_big.PNG": "/static/media/MSG_big.0c13a920448395cec9da.PNG",
     "index.html": "/index.html",
     "main.91b3aa32.css.map": "/static/css/main.91b3aa32.css.map",
-    "main.403b1b56.js.map": "/static/js/main.403b1b56.js.map"
+    "main.38e4e531.js.map": "/static/js/main.38e4e531.js.map"
   },
   "entrypoints": [
     "static/css/main.91b3aa32.css",
-    "static/js/main.403b1b56.js"
+    "static/js/main.38e4e531.js"
   ]
 }
