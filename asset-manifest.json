@@ -1,13 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.91b3aa32.css",
-    "main.js": "/static/js/main.f1e60eb8.js",
+    "main.js": "/static/js/main.c227c014.js",
     "static/media/gandr-demo.mp4": "/static/media/gandr-demo.5facc3cacdda76998d49.mp4",
     "static/media/nfph-demo.mp4": "/static/media/nfph-demo.fa01b7b60c09db48adbf.mp4",
     "static/media/always-balanced-demo.mp4": "/static/media/always-balanced-demo.515f538ae8927f037f52.mp4",
     "static/media/fruit-quest-demo.mp4": "/static/media/fruit-quest-demo.f0ecb9575cb1844d586b.mp4",
-    "static/media/nfph-screenshot.png": "/static/media/nfph-screenshot.193ca1d3474f946b700f.png",
-    "static/media/gandr-screenshot.png": "/static/media/gandr-screenshot.b844d120aecc7d84867f.png",
+    "static/media/resume_best-segan_predict_2.png": "/static/media/resume_best-segan_predict_2.64f449790c0344a3c606.png",
     "static/media/msepulveda.jpg": "/static/media/msepulveda.b89ecdb4708863b4fb50.jpg",
     "static/media/ghent.jpeg": "/static/media/ghent.345a6440d36b6d40e41d.jpeg",
     "static/media/new-york.jpeg": "/static/media/new-york.73ab1f1409a01bc3f6ba.jpeg",
@@ -16,18 +15,16 @@
     "static/media/pavlova.jpeg": "/static/media/pavlova.13046268f9472f4cd023.jpeg",
     "static/media/golden-gate-bridge.jpeg": "/static/media/golden-gate-bridge.5506a83fc5fb36b68fa2.jpeg",
     "static/media/france.jpeg": "/static/media/france.67fb9c2548c8dae39b77.jpeg",
-    "static/media/fruit-quest-screenshot.png": "/static/media/fruit-quest-screenshot.2ff3ee8450892decb69d.png",
-    "static/media/always-balanced-screenshot.png": "/static/media/always-balanced-screenshot.34a3cb24e38c80d1ec52.png",
     "static/media/skills.png": "/static/media/skills.7b539b172c6a74438cec.png",
     "static/media/msg_violet.png": "/static/media/msg_violet.da63904e49c82c5cd0ff.png",
     "static/media/send.png": "/static/media/send.765a808a6897fcc5d8d1.png",
     "static/media/education.png": "/static/media/education.0427074c0e3dd8742cd2.png",
     "index.html": "/index.html",
     "main.91b3aa32.css.map": "/static/css/main.91b3aa32.css.map",
-    "main.f1e60eb8.js.map": "/static/js/main.f1e60eb8.js.map"
+    "main.c227c014.js.map": "/static/js/main.c227c014.js.map"
   },
   "entrypoints": [
     "static/css/main.91b3aa32.css",
-    "static/js/main.f1e60eb8.js"
+    "static/js/main.c227c014.js"
   ]
 }
